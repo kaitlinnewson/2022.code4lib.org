@@ -13,7 +13,7 @@ online-only-conference: false
 # Hero
 ###########################
 # Place hero image in /assets/img/theme-images/
-hero-image-filename: 'buffalo20.jpg'
+hero-image-filename: 'buffalo.png'
 hero-image-source: ''
 hero-image-alt: ''
 
