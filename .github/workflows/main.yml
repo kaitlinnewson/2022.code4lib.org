@@ -7,7 +7,7 @@ on:
       - edited
   schedule:
     # Run this workflow daily at 1:00 AM, [using tz set below]
-    - cron: 05 19 * * *
+    - cron: 10 19 * * *
 
 jobs:
   merge_scheduled_pull_requests:
